@@ -1,2 +1,8 @@
 *.pyc
 ./ssi/__pycache__/
+./apps/usuarios/migrations/
+./apps/usuarios/__pycache__/
+./apps/matricula/migrations/
+./apps/matricula/__pycache__/
+./apps/asignatura/migrations/
+./apps/asignatura/__pycache__/
